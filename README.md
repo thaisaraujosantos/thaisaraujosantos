@@ -1,5 +1,4 @@
-### Hi there! I'm Thaís Araújo - Front-End Developer 👋
-
+### Hi there! I'm Thaís Araújo 👋
 
 
 - 🔭 I’m currently working at MobiGap World.
