@@ -3,7 +3,7 @@
 
 - 👩‍💻 I'm a Front-End Developer. 
 - 🔭 I’m currently working at MobiGap World.
-- 🌱 I’m currently learning ReactJS.
+- 🌱 I’m currently learning HTML, CSS, JavaScript and ReactJS.
 
 <div align="center">
   <a href="https://github.com/thaisaraujosantos">
